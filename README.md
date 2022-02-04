@@ -1,7 +1,7 @@
 # cpsc-project
 
 
-It is the data of concentration of Carbondioxide between 1958 and 2015 data is shown in the form of integers
+The data of concentration of Carbondioxide between 1958 and 2015  is shown in the form of integers
 
 The"average"column contains the monthly mean CO2 mole fraction determined from daily averages. The mole fraction of CO2, expressed as parts per million(ppm) is the number of molecules of CO2 in every one million molecules of dried air(watervaporremoved).
 
